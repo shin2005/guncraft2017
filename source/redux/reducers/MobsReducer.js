@@ -36,7 +36,7 @@ const defaultState = {
         },
         {
           title: 'Witch',
-          description: '마녀는 포션을 던지고 마셔서 자신을 보호하는 몹입니다. ',
+          description: '마녀는 포션을 던지고 마셔서 자신을 보호하는 몹입니다. 클로 마녀와 헷깔리지 마세요^^',
           src: '/images/mobs/witch.png'
         }
       ]

@@ -40,6 +40,9 @@ export const tabs = [
     pathname: 'references',
     tabLabel: 'References',
     component: References
+  },
+  {
+
   }
 ]
 
