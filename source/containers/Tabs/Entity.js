@@ -6,7 +6,7 @@ export default class Entity extends Component {
     return (
       <div>
         <PageHeading
-          title="Need a Chart"
+          title="Need a Chart, coming soon"
         />
       </div>
     )
