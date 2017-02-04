@@ -4,6 +4,7 @@ import Container from 'components/Container';
 import Section from 'components/Section';
 import Card from 'components/Card';
 import {connect} from 'react-redux';
+import Iframe from 'components/Iframe';
 
 
 class Mobs extends Component {
@@ -16,6 +17,7 @@ class Mobs extends Component {
           description="Dangerous Monsters In Minecraft"
         />
         <Container>
+          <Iframe code="wntYo7F3iYA" />
           {sections.map((section, index) => (
             <Section
               title={section.title}
