@@ -7,7 +7,7 @@ export default class Home extends Component {
     return (
       <div>
         <PageHeading
-          title="Hello folks"
+          title="Hi everyone!"
         />
         <div>
           <Iframe code="t0eqSgkDuW0" />
