@@ -71,7 +71,7 @@ const defaultState = {
         },
         {
           title: 'Magma Cubes',
-          description: 'Magma Cubes are red... cubes. They jump around and whack you on the head. If you kill them, they split in 4. Those "Magma Pups" split in 4 again when you kill them. Be careful with them!!',
+          description: 'Magma Cubes are red... cubes. They jump around and whack you on the head. If you kill them, they split in 4. Those "Magma Pups" split in 4 again when you kill them. Be careful with them!!!',
           src: '/images/mobs/magma-cube-full-extend.png',
           topMargin: true
         }
