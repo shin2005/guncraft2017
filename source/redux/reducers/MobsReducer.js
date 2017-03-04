@@ -74,6 +74,24 @@ const defaultState = {
           description: 'Magma Cubes are red... cubes. They jump around and whack you on the head. If you kill them, they split in 4. Those "Magma Pups" split in 4 again when you kill them. Be careful with them!!',
           src: '/images/mobs/magma-cube-full-extend.png',
           topMargin: true
+        },
+      ]
+    },
+    {
+      title: 'Boss Mobs',
+      titleColor: '#730ed9',
+      thumbs: [
+        {
+          title: 'Wither',
+          description: 'Withers are spawned by you!! You use ',
+          src: '/images/mobs/wither.png',
+          topMargin: true
+        },
+        {
+          title: 'Ender Dragon',
+          description: 'Ender Dragons are the final mobs to face in the end.',
+          src: '/images/mobs/EnderDragon.png',
+          topMargin: true
         }
       ]
     }
