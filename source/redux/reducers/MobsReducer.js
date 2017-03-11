@@ -42,7 +42,6 @@ const defaultState = {
         {
           title: 'Slime',
           description: 'Slimes bounce around like Magma Cubes.'
-          src: '/images/mobs/slime.jpeg'
         }
       ]
     },
