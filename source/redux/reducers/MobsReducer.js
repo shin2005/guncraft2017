@@ -2,7 +2,7 @@ const defaultState = {
   sections: [
     {
       title: 'Overworld Monsters',
-      titleColor: 'green',
+      titleColor: '#18991e',
       thumbs: [
         {
           title: 'Zombie',
@@ -41,7 +41,8 @@ const defaultState = {
         },
         {
           title: 'Slime',
-          description: 'Slimes bounce around like Magma Cubes.'
+          description: 'Slimes bounce around like Magma Cubes.',
+          src: '/images/mobs/slime.png'
         }
       ]
     },
