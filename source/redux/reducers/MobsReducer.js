@@ -94,7 +94,7 @@ const defaultState = {
         },
         {
           title: 'Ender Dragon',
-          description: 'Ender Dragons are the final mobs to face in the end.',
+          description: 'Ender Dragons are the final mobs to face in the end. If you beat it, you get to see MINECRAFT CREDITS!!   YAY!!!!!',
           src: '/images/mobs/EnderDragon.png',
           topMargin: true
         }
