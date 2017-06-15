@@ -18,13 +18,13 @@ const defaultState = {
         },
         {
           title: 'Creeper',
-          description: 'Creepers are greenish mobs that blow up. When you hear a hissing sound behnd you, run!! That`s a creeper getting ready to blow up.',
+          description: 'Creepers are greenish mobs that blow up. When you hear a hissing sound behnd you, run!! That`s a creeper getting ready to blow up. You can summon a creeper hit by lightning, called a Charged Creeper, with </summon creeper [x] [y] [z] {powered:1}>',
           src: '/images/mobs/creeper.png',
           topMargin: true
         },
         {
           title: 'Spider',
-          description: 'Spiders are mobs that give you damage by hitting you. Luckily, they only have 16 HP(8 hearts), so they are relatively easy to kill. Just don`t get them bunched up-that`s hard. Meanwhile, cave spiders are a lot more dangerous because they usually spawn in groups and give you poison effects.',
+          description: 'Spiders are mobs that give you damage by hitting you. Luckily, they only have 16 HP(8 hearts), so they are relatively easy to kill. Just don`t get them bunched up-that`s hard. Meanwhile, cave spiders are a lot more dangerous because they usually spawn in groups and give you poison effects. P.S.: The <Bane of Arthropods> enchant are effective for killing spiders.',
           src: '/images/mobs/spider.png',
           topMargin: true
         },
@@ -36,7 +36,7 @@ const defaultState = {
         },
         {
           title: 'Witch',
-          description: '마녀는 포션을 던지고 마셔서 자신을 보호하는 몹입니다. 클로 마녀와 헷깔리지 마세요^^',
+          description: 'Witches have 13 hearts. Also, witches are annoying. They can throw potions of poison and instant damage potions, making them pretty darn challenging to just run at them. They also have fire resistance potions, so they won`t die even in lava, except when they had low HP. Also, they attack each other if a large number is left alone.',
           src: '/images/mobs/witch.png'
         },
         {
