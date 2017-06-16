@@ -2,7 +2,7 @@ const defaultState = {
   sections: [
     {
       title: 'Overworld Monsters',
-      titleColor: '#18991e',
+      titleColor: '#0bc614',
       thumbs: [
         {
           title: 'Zombie',
