@@ -15,7 +15,7 @@ const defaultState = {
     {
       title: 'End',
       titleColor: '#6107ba',
-      description: 'The end is a sort of empty world where Endermen(see mobs for information) and the ender dragon lives.',
+      description: 'The end is a sort of empty world where Endermen(see mobs for information) and the ender dragon lives.You can only enter through an ender portal activated by an eye of end. They only exist in strongholds.',
       imageSrc: '/images/worlds/end.png'
     }
   ]
