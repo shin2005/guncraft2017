@@ -9,7 +9,7 @@ const defaultState = {
     {
       title: 'Nether',
       titleColor: '#f10d0d',
-      description: 'The nether is a sort of hell, where strange monsters like Zombie pigmen, blazes, and ghasts spawn.',
+      description: 'The nether is a sort of hell, where strange monsters like Zombie pigmen, blazes, and ghasts spawn. You build the portal with an obsidian frame, and light it.',
       imageSrc: '/images/worlds/newNether.jpeg'
     },
     {
