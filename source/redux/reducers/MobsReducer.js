@@ -98,7 +98,7 @@ const defaultState = {
       ]
     },
     {
-      title: 'Boss Mobs',
+      title: 'Boss Mobs(uh, oh)',
       titleColor: '#6b04d2',
       thumbs: [
         {
